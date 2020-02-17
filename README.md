@@ -1,3 +1,3 @@
 # golang
 
-Practic go programs
+Practice go programs
