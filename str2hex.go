@@ -6,7 +6,7 @@ func main() {
 
 	var input string
 
-	fmt.Println("\nThis utility will convert string from hexadecimal\n\n")
+	fmt.Println("\nThis utility will convert string into hexadecimal\n\n")
 
 	fmt.Println("Enter Your Input Below and Press Enter: \n")
 
